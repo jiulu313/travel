@@ -32,7 +32,6 @@
       margin-bottom .1rem
       padding-left 0.05rem
       color: #ccc
-
     .header-right
       width: 1.24rem
       height: 0.86rem
